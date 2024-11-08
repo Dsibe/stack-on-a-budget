@@ -165,6 +165,7 @@ The goal is to have enough details about each free tier so developers can choose
     - [Let's Encrypt](pages/misc.md#lets-encrypt)
     - [Mailtrap](pages/misc.md#mailtrap)
     - [ostr.io](pages/misc.md#ostrio)
+    - [ParityVend](pages/misc.md#parityvend)
     - [Svix](pages/misc.md#svix)
     - [Taskade](pages/misc.md#taskade)
     - [Warrant](pages/misc.md#warrant)
